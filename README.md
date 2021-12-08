@@ -1,7 +1,7 @@
 # My Portfolio 
 Decided it was time to update my portfolio to something that was a little less bare bones. Built using React & Sass
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://lavellwesley.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
