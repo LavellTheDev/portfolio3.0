@@ -8,12 +8,13 @@ import "./app.scss"
 function App() {
   return (
     <div className="app">
-      <Topbar/>
-      <div className="sections"></div>
-      <Intro />
-      <Portfolio />
-      <Works />
-      <Contact/>
+        <Topbar/>
+      <div className="sections">
+        <Intro />
+        <Portfolio />
+        <Works />
+        <Contact/>
+      </div>
     </div>
   );
 }
