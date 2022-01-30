@@ -3,11 +3,11 @@ Decided it was time to update my portfolio to something that was a little less b
 
 **Link to project:** https://lavellwesley.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://imgur.com/a/mQQ37KP)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** React, Sass, Material-UI, Icon8
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
