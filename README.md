@@ -3,7 +3,7 @@ Decided it was time to update my portfolio to something that was a little less b
 
 **Link to project:** https://lavellwesley.com/
 
-![alt tag](https://imgur.com/a/mQQ37KP)
+![alt tag]("https://imgur.com/a/mQQ37KP")
 
 ## How It's Made:
 
